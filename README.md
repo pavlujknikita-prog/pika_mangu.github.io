@@ -1,2 +1,24 @@
-# pika_mangu.github.io
-brbr
+# pika_mangu
+
+#profile-title: pika_mangu
+#profile-update-interval: 12
+#subscription-userinfo: total=0; expire=0
+#support-url: https://t.me/pika_mangu_support
+#profile-web-page-url: https://t.me/pika_mangu_bot
+#announce: base64:4pqg77iP0KDQkNCR0J7QotCQINCSINCj0KHQm9Ce0JLQmNCv0KUg0J7Q9Cg0JDQndCY0KfQldCd0JjQmSDQnNCe0JHQmNCb0KzQndCe0JPQniDQmNCd0KLQldCg0J3QldCi0JAg0J3QlSDQk9CQ0KDQkNCd0KLQmNCg0J7QktCQ0J3QkC4KCtCi0LXRhdC90LjRh9C10YHQutCw0Y8g0L/QvtC00LTQtdGA0LbQutCwINC4INC+0L/Qu9Cw0YLQsDogQGFidnBuYm90Cg==
+
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@alb02.abvpn.net:443?security=tls&type=xhttp&fp=random&sni=alb02.abvpn.net&host=alb02.abvpn.net&path=8081fd98-763a-4ed6-aacd-40bb62c8070a&mode=auto&alpn=h2&allowInsecure=0#%F0%9F%87%A6%F0%9F%87%B1PRO%20%E2%9D%AF%20%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F%232
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@de38.theabvp.org:443?security=reality&type=tcp&fp=firefox&sni=www.samsung.com&pbk=Y8MvwibFJmGUBghurzI3LvKyEwjBDUurrtB34QjpIUo&sid=5043463d&spx=/#%F0%9F%87%A9%F0%9F%87%AAPRO%20%E2%9D%AF%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2338
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@de55.tcpnet.fun:443?security=reality&type=tcp&fp=firefox&sni=de55.tcpnet.fun&pbk=8_lV-bhcHR74sWwYjMKNgXVD6B_LeHPeIPfYvpub-wE&sid=0a4945b5&spx=/#%F0%9F%87%A9%F0%9F%87%AAPRO%20%E2%9D%AF%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2355
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@gbr07.abvpn.ru:443?security=reality&type=tcp&fp=firefox&sni=vk6-4.vkuser.net&pbk=a4G_JvWIaMDsLHE-oWV7akCDb0A6tzyAk_acr6-lTh0&sid=6918cba0&spx=/#%F0%9F%87%AC%F0%9F%87%A7PRO%20%E2%9D%AF%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%237
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@nl24.abvpn.ru:443?security=reality&type=tcp&fp=firefox&sni=www.vk.com&pbk=HQlq5_MX7fuQ4fU6X_MqjrrvqOme4TILusovFwg_Xl4&sid=663f55fc&spx=/#%F0%9F%87%B3%F0%9F%87%B1PRO%20%E2%9D%AF%20%D0%93%D0%BE%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%2324
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@pl12.abvpn.ru:443?security=reality&type=tcp&fp=firefox&sni=mirror.yandex.ru&pbk=lKCHLxFAn7dKxyEtCK00hCBc2mpba9KKCHdY_22V_Vo&sid=6f671e8b&spx=/#%F0%9F%87%B5%F0%9F%87%B1PRO%20%E2%9D%AF%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%2312
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru53.theabvp.org:443?security=reality&type=tcp&fp=firefox&sni=eh.vk.com&pbk=4KG9-TiJmDEyalreye2cOFNqAJTTyDqQ7RsNbSTo5Ac&sid=175a1883&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2353%20%E2%9D%AF%20YouTube
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru79.tcpnet.fun:443?security=reality&type=tcp&fp=firefox&sni=www.samsung.com&pbk=nQcLWAL8l13f34IO_MKgWAOJUA3p5Yk7uq7o6p49Czg&sid=f26b10f9&spx=/#PRO%20%E2%9D%AF%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@usa11.tcpdoor.net:443?security=reality&type=tcp&fp=firefox&sni=www.samsung.com&pbk=WzcSysdw1NSPW43YFNTThfu5mZn7vJbFEOLWoKbFSG8&sid=b0972f42&spx=/#%F0%9F%87%BA%F0%9F%87%B8PRO%20%E2%9D%AF%20%D0%A1%D0%A8%D0%90%2311%20%E2%9D%AF%20WARP
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru101.tcpdoor.net:443?security=reality&type=tcp&fp=firefox&sni=ru101.tcpdoor.net&pbk=NO1oaER_X1q89kSY5q3NwZcZtyT5NQ_3t-rqGqO6O1Q&sid=a147e6e9&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%23101%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru13.theabvp.org:443?security=reality&type=tcp&fp=firefox&sni=eh.vk.com&pbk=SXT5GuDlBt14-hTuu5X_a8Z7MHYhMnDOZLoSc4uzizc&sid=aca7c8d8&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2313%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru25.tcpdoor.net:443?security=reality&type=grpc&fp=firefox&sni=www.vk.com&pbk=IZr6pTUJycWASevoMnvwYVGpsDkGuHwTxwb7YwHLmh8&serviceName=grpc&sid=585290cb#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2325%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru26.abvpn.ru:443?security=reality&type=tcp&fp=firefox&sni=www.vk.com&pbk=68qIW5ejmsr2oPCqnDjHb-p_Cp_iDQ888t2II-PBDFA&sid=4a357e70&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2326%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru41.theabvp.org:443?security=reality&type=tcp&fp=firefox&sni=sun6-20.userapi.com&pbk=YlTuZAJgyqZ6gmKKTbtR0TZvFsXeozca_bs0tqIXtys&sid=200fda74&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2341%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
+vless://54545f9e-e506-44f3-9397-de0d321fdf47@ru50.theabvp.org:4443?security=reality&type=tcp&fp=firefox&sni=vk6-4.vkuser.net&pbk=8JaJV9a6AAnFUiuxGQU1JZI3SIlS38HranlKMt1Ydh0&sid=8f0760e5&spx=/#%F0%9F%87%B7%F0%9F%87%BAPRO%20%E2%9D%AF%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2350%20%E2%9D%AF%20%D0%BC%D0%BE%D0%B1.%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82
